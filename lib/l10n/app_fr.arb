@@ -1,0 +1,12 @@
+{
+    "choose_your_favorite_language": "Choisir Votre Langue Préférée",
+    "demand_assistance":"Demande d’assistance",
+    "next":"Suivant",
+    "to_login":"Se connecter",
+    "kyc_agent_login": "Connexion de l’Agent KYC",
+    "username": "Nom de L’Utilisateur",
+    "password": "Mot de passe",
+    "i_have_forgetten_my_password": "J’ai oublier mon mot de passe",
+    "success": "succès",
+    "make_sure_to_fill_missing_fields": "Assurez-vous de remplir les champs manquants"
+}

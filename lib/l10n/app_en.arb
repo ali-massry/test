@@ -1,0 +1,12 @@
+{
+    "choose_your_favorite_language": "Choose Your Favorite Language",
+    "demand_assistance":"Demand Assistance",
+    "next":"Next",
+    "to_login":"To Login",
+    "kyc_agent_login": "KYC Agent Login",
+    "username": "Username",
+    "password": "Password",
+    "i_have_forgetten_my_password": "I have forgettten my password",
+    "success": "Success",
+    "make_sure_to_fill_missing_fields": "Make sure to fill missing fields"
+}
